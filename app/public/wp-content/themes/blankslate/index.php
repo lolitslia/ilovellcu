@@ -63,7 +63,7 @@
       <h2>The links.</h2>
       <p>Here is the stuff I talked about in my video:</p>
       <ul>
-        <li class="text-white">This site's code in <a href="https://codepen.io/collection/Qbdajj" target="_blank"
+        <li class="text-white">This site's code in <a href="https://github.com/lolitslia/ilovellcu" target="_blank"
             class="text-white hover:text-neutral-900">GitHub</a></li>
         <li><a href="https://intention.ly/" target="_blank" class="text-white hover:text-neutral-900">Intention.ly</a>
         </li>
